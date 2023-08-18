@@ -13,3 +13,4 @@ const Product = function({name,brand,price,discount,description,image}){
 }
 
 module.exports = Product;
+
